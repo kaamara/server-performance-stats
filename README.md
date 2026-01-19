@@ -1,4 +1,4 @@
 # server-performance-stats
 
 #chmod +x server-stats.sh
-# ./server-stats.sh
+#./server-stats.sh
